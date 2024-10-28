@@ -7,7 +7,7 @@
 
 ![秋の味覚](food_takikomigohan.png)
 
-<!DOCTYPE html>
+
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
